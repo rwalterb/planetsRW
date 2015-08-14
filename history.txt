@@ -1,0 +1,346 @@
+    1  df
+    2  cd /dev/disk1s1
+    3  cd /bin
+    4  ls
+    5  cd tcsh
+    6  emacs tcsh
+    7  ctcsh
+    8  pwd
+    9  ls -al
+   10  tcsh
+   11  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   12  brew help
+   13  quit
+   14  ?
+   15  help
+   16  exit
+   17  cd Administrative/
+   18  scp rwalterb@astronomy.nmsu.edu:/home/orion/rwalterb/Depthead/Yr1516/assessment.pdf .
+   19  scp rwalterb@astronomy.nmsu.edu:/home/orion/rwalterb/Depthead/Yr1516/Walterbos_Goals_2015-16.docx .
+   20  scp rwalterb@astronomy.nmsu.edu:/home/orion/rwalterb/Depthead/Yr1516/walterbos_Goals_2015-16.docx .
+   21  scp rwalterb@astronomy.nmsu.edu:/home/orion/rwalterb/Depthead/Yr1415/walterbos-goals14.doc .
+   22  cd Research
+   23  ls
+   24  mkdir Softwareworkshop
+   25  cd Softwareworkshop/
+   26  emacs questions.txt
+   27  ls
+   28  ls -al
+   29  ls -al | page
+   30  ls -al | more
+   31  history
+   32  ls
+   33  ls *.txt
+   34  cd
+   35  cd
+   36  ls
+   37  cd /bin
+   38  ls
+   39  cd 
+   40  cd Applications/
+   41  ls
+   42  ls -al
+   43  cd ..
+   44  cd /usr
+   45  cd local
+   46  ls
+   47  ls -al
+   48  more LICENSE.txt 
+   49  more README.md 
+   50  ls
+   51  cd Library
+   52  ls
+   53  ls -al
+   54  cd
+   55  ssh astronomy.nmsu.edu
+   56  pwd
+   57  ssh astronomy
+   58  cd Administrative/
+   59  ls
+   60  cd
+   61  cd Research
+   62  ls
+   63  ls *.txt
+   64  cd
+   65  ls *.txt
+   66  cd Administrative/
+   67  ls
+   68  cd
+   69  ls
+   70  cd Research/
+   71  dr
+   72  ls -al
+   73  cd Softwareworkshop/
+   74  ls
+   75  more questions.txt
+   76  git --version
+   77  python --version
+   78  sqlite --version
+   79  sqlite3
+   80  brew install rlwrap
+   81  history
+   82  cd
+   83  ssh astronomy.nmsu.edu
+   84  ssh astronomy.nmsu.edu
+   85  ipython --version
+   86  ipython notebook
+   87  cd
+   88  pip install ipython
+   89  ipython --version
+   90  whoami
+   91  pwd
+   92  ls
+   93  ls -F
+   94  ls -l
+   95  ls -a
+   96  ls -Falh
+   97  ls man
+   98  ls --help
+   99  man ls
+  100  ls -Falht
+  101  ls -t
+  102  ls -lt
+  103  cd Desktop
+  104  cd
+  105  pwd
+  106  cd Research
+  107  mkdir Software
+  108  cd Software
+  109  git clone https://github.com/raynamharris/shell-novice.git
+  110  pwd
+  111  ls
+  112  ls -t
+  113  ls -F
+  114  cd shell-novice/
+  115  ls -lF
+  116  cd data
+  117  ls
+  118  ls -F
+  119  cd data
+  120  ls -F
+  121  cd ..
+  122  ls
+  123  cd ..
+  124  ls
+  125  cd ..
+  126  ls
+  127  cd ..
+  128  dr
+  129   git clone https://github.com/raynamgit clone https://github.com/raynamharris/swc_nmsu_files.githarris/swc_nmsu_files.gi
+  130   git clone https://github.com/raynamgit clone https://github.com/raynamharris/swc_nmsu_files.githarris/swc_nmsu_files.git
+  131  cd
+  132  cd Research
+  133  cd Software
+  134  ls
+  135  git clone https://github.com/raynamharris/swc_nmsu_files.git
+  136  ls -F
+  137  cd swc_nmsu_files/
+  138  ls
+  139  pwd
+  140  nano thesis.txt
+  141  nano thesis.txt
+  142  echo hello > hello.txt
+  143  echo ls >> hello.txt
+  144  ls
+  145  pwd
+  146  cd Users
+  147  ls
+  148  cd nelle
+  149  ls
+  150  cd molecules/
+  151  ls
+  152  ls -alF
+  153  wc *pdb
+  154  wc -l *pdb
+  155  wc -l *pdf | sort
+  156  wc -l *pdb | sort
+  157  wc -l *pdb | sort -n
+  158  wc -l *pdb | sort -n |head
+  159  wc -l *pdb | sort -n |head -1
+  160  wc -l *pdb | sort -n | tail -3 | head -2
+  161  pwd
+  162  head -15 octane.pdf
+  163  head -15 octane.pdb
+  164  tail -5 octane.pdb 
+  165  nano middle.sh
+  166  bash middle.sh
+  167  nano middle.sh
+  168  bash middle.sh octabe.pdb
+  169  bash middle.sh octane.pdb
+  170  nano middle.sh
+  171  bash middle.sh octane.pdb 5 10
+  172  bash middle.sh octane.pdb 2 5
+  173  bash middle.sh octane.pdb 3 5
+  174  bash middle.sh octane.pdb 10 5
+  175  pwd
+  176  cd ..
+  177  ls
+  178  cd
+  179  cd Research
+  180  cd Software
+  181  ls
+  182  emacs readme
+  183  s
+  184  ls
+  185  cd swc_nmsu_files/
+  186  ls
+  187  cd data
+  188  ls
+  189  cd ..
+  190  ls
+  191  cd Users
+  192  cd nelle
+  193  ls
+  194  ls -F
+  195  cd north-pacific-gyre/
+  196  ls
+  197  pwd
+  198  cd 201
+  199  cd 2012-07-03/
+  200  ls
+  201* wc -l *.txt | sort -n |
+  202  history
+  203  ls -al
+  204  ls *.txt
+  205  ls ls -l *[AB].txt
+  206  ls ls -F *[AB].txt
+  207  ls -l *[AB].txt
+  208  ls -al *[AB].txt
+  209  ls -alh *[AB].txt
+  210  mv NENE02018B.txt NENE02018B-bad.txt
+  211  for filename in *[AB].txt; do echo $filename; done
+  212  ls
+  213  ls -al
+  214  bash goostats $filename stat-$filename
+  215  for filename in *[AB].txt; do bash goostats $filename stat -$filename; done
+  216  for filename in *[AB].txt; do bash goostats $filename stats$filename; done
+  217  for filename in *[AB].txt; do echo $filename; bash goostats $filename; stats-filename; done
+  218  for filename in *[AB].txt; do echo $filename; bash goostats $filename; stats-$filename; done
+  219  ls
+  220  more goostats
+  221  pwd
+  222  cd ..
+  223  ls
+  224  cd ..
+  225  ls
+  226  cd writing
+  227  ls
+  228  cat haiku.txt
+  229  more haiku.txt
+  230  grep -w not haiku.txt
+  231  grep -n -w not haiku.txt
+  232  grep -n -w "is not" haiku.txt
+  233  grep -n -w -v "is not" haiku.txt
+  234  grep -c not haiku.txt
+  235  grep -E '^.o' haiku.txt
+  236  history | grep for
+  237  for filename in *[AB].txt; do echo $filename; done
+  238  history | grep head
+  239  find . -type d
+  240  pwd
+  241  cd ..
+  242  find . -type d
+  243  cd writing
+  244  find . -type f
+  245  find . -maxdepth 1
+  246  find . -name *.txt
+  247  find . -name *.md
+  248  find . -name \*.md
+  249  find . -name \*.txt
+  250  wc -l $(find . -name *.txt)
+  251  wc -l $(find . -name "*.txt")
+  252  ls --help
+  253  man ls
+  254  pwd
+  255  cd
+  256  cd Research
+  257  cd Software
+  258  cd swc_nmsu_files/
+  259  ls
+  260  cd python-data/
+  261  ls
+  262  pwd
+  263  cd ..
+  264  ls
+  265  cd ..
+  266  ls
+  267  pwd
+  268  cd
+  269  cd Research
+  270  cd Software
+  271  git config
+  272  git config --list
+  273  git config --global user.name
+  274  git config --global user.name "rwalterb"
+  275  git config --list
+  276  git config --global user.email "rwalterb@nmsu.edu"
+  277  git config --list
+  278  git config --global color.ui "auto"
+  279  git config --global core.editor "emacs"
+  280  git config --global core.editor "nano -w"
+  281  history > history.txt
+  282  more history.txt
+  283  git config --list
+  284  mkdir planetsRW
+  285  cd planetsRW/
+  286  ls
+  287  pwd
+  288  git init
+  289  ls
+  290  ls -al
+  291  git status
+  292* echo mars is awesomegit status!" > mars.txt
+  293  echo mars is awesome > mars.txt
+  294  more mars.txt
+  295  echo I'm really not sure Pluto is a planet > pluto.txt
+git status
+exit
+  296  ls
+  297  history
+  298  echo I'm really not sure Pluto is a planet >pluto.txt
+  299  echo Im really not sure pluto > pluto.txt
+  300  ls
+  301  git status
+  302  git add mars.txt pluto.txt
+  303  git status
+  304  git commit -m "my initial thoughts on mars and pluto"
+  305  git status
+  306  git log
+  307  nano mars.txt
+  308  nano task.py
+  309  python task.py
+  310  nano task.py
+  311  python task.py
+  312  git status
+  313  git add task.py
+  314  git commit
+  315  git status
+  316  git add mars.txt
+  317  git committ
+  318  git commit
+  319  git status
+  320  git commit "edited mars file"
+  321  git commit #edited mars file
+  322  git status
+  323  git status
+  324  git log
+  325  git remote add origin https://github.com/rwalterb/planetsRW.git
+  326  git push -u origin master
+  327  nano pluto.txt
+  328  git status
+  329  git add pluto.txt
+  330  git commit edited pluto file
+  331  git commit -m "edited pluto file"
+  332  git status
+  333  git push origin master
+  334  more pluto.txt
+  335  git checkout 664911771c6fe2d778c2001cce34a53ab9b7f505 pluto.txt
+  336  more pluto.txt
+  337  git checkout d7d41010aad0eae504889ebc33012f4675d7d3a0 pluto.txt
+  338  more pluto.txt
+  339  git checkout HEAD pluto.txt
+  340  more pluto.txt
+  341  git config --list
+  342  history
+  343  ls
+  344  history > history.txt
